@@ -1,0 +1,17 @@
+.header__link {
+    margin: 0 2% 0 0;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 100%;
+/* identical to box height, or 14px */
+
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+
+    color: #254152;
+
+}
+
+.header__link:hover {
+    opacity: 0.5;
+}

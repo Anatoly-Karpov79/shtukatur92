@@ -1,0 +1,8 @@
+.header {
+    max-width: 1440px;
+    display: grid;
+    grid-template-columns: 0.5fr 1.5fr 1fr 1fr;
+    grid-template-rows: 80% 20%;
+    justify-items: center;
+    align-items: center;
+}

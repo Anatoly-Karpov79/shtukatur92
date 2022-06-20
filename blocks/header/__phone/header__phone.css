@@ -1,0 +1,10 @@
+.header__phone {
+    font-weight: 700;
+font-size: 22px;
+line-height: 100%;
+/* identical to box height, or 22px */
+
+text-align: right;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+}
